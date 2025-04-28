@@ -1,0 +1,4 @@
+net\pruebatecnica\dao\ProveedorDAO.class
+net\pruebatecnica\web\ProveedoresController.class
+net\pruebatecnica\model\Proveedor.class
+net\pruebatecnica\conexion\Conexion.class
